@@ -1,0 +1,67 @@
+/* back end stylings start */
+.main_panel{
+	margin:30px;
+}
+#vmp_message_panel{
+	margin:30px;
+	padding:20px;
+	font-size:16px;
+	border-radius:5px;
+	border:1px solid #aaa;
+	background-color:#ececec;
+}
+#vmp_message_panel_alt{
+	margin:30px;
+	padding:20px;
+	font-size:16px;
+	border-radius:5px;
+	border:1px solid #aaa;
+	background-color:#ececec;
+}
+
+/* back end stylings end */
+
+/* front end stylings start */
+
+.main_wrapper_left{
+	float:left;
+	clear:both;
+}
+.main_wrapper_right{
+	float:right;
+	clear:both;
+}
+.first{
+	float:left;
+}
+.other{
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+}
+.counter{
+	padding: 3px 5px;
+	line-height: 16px;
+	border:1px solid #999;
+	float:right;
+	margin-left:5px;
+	text-align:center;
+}
+.voted_left{
+	float:left;
+	clear:both;
+	color:#b22f18;
+	font:lighter 14px verdena;
+	padding: 5px;
+	margin:8px 0px;
+}
+.voted_right{
+	float:right;
+	clear:both;
+	color:#b22f18;
+	font:lighter 14px verdena;
+	padding: 5px;
+	margin:8px 0px;
+}
+
+/* front end stylings end */
